@@ -137,7 +137,8 @@ npm start
 ## Screenshots
 
 ![Screenshot 2024-11-29 222522](https://github.com/user-attachments/assets/d7c16e39-312b-424d-8c10-c9426a5aaad6)
-![Screenshot 2024-11-29 222515](https://github.com/user-attachments/assets/918a5e9c-1d61-4a04-8c6d-c3b539b223ca)
+![image](https://github.com/user-attachments/assets/fdb6030c-24ff-48ed-bf9e-fad7c0a67f58)
+
 ![Screenshot 2024-11-29 222711](https://github.com/user-attachments/assets/727efac1-5327-48b6-a153-95a60827dddc)
 
 
